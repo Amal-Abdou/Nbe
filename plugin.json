@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Nbe",
+  "SystemName": "Payments.Nbe",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Bernasos",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.Nbe.dll",
+  "Description": "This plugin allows you to pay using Knet and Credit Card through Nbe payment gateway."
+}
